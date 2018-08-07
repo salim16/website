@@ -2,4 +2,4 @@
 
 just some updates
 
-Just a normal pull instead of a rebase
+Just some changes, will pull it as a rebase

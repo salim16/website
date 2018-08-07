@@ -2,4 +2,4 @@
 
 just some updates
 
-Updates made on master on Github before rebase
+Just a normal pull instead of a rebase

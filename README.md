@@ -4,4 +4,4 @@ just some updates
 
 Just some changes, will pull it as a rebase
 
-just some quick updates
+updating readme before rebase..

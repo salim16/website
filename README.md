@@ -4,4 +4,4 @@ just some updates
 
 Just some changes, will pull it as a rebase
 
-changes made to read me globally at github at 2:06
+all together a new readme at 2:11

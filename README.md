@@ -7,3 +7,5 @@ Just some changes, will pull it as a rebase
 all together a new readme at 2:12, conflict
 
 amended
+
+added now line
